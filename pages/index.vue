@@ -2,11 +2,11 @@
     <div class="h-full">
         <TopNav />
         <div class="flex flex-col md:flex-row h-full">
-            <Welcome />
+            <WelcomeHero />
             <FeaturedNews />
         </div>
         <div class="w-full">
-            <Media />
+            <MediaBanner />
         </div>
     </div>
 </template>
